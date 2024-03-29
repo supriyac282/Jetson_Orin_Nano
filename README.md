@@ -1,7 +1,8 @@
-# Multi-Camera Object Detection on Nvidia Jetson Orin Nano”
-
+# Multi-Camera Object Detection on Nvidia Jetson Orin Nano
 
 This project integrates the NVIDIA Jetson Orin Nano with two ZED 2i cameras, employing PyTorch and YOLOv8 for real-time object detection. The combination enables efficient processing of stereo images, making it suitable for edge applications such as autonomous navigation and surveillance, where rapid and accurate analysis of visual data is essential.
+
+### Installation and Setup: 
 
 The setup for the project is as follows:
 
@@ -23,8 +24,6 @@ Once the necessary installations are done, you can also proceed with exploring t
 The live feed can also be checked through the ZED_Explorer which is present in the path <code>/usr/local/zed/tools/ZED Explorer</code>. For further guide into running applications refer <code>https://www.stereolabs.com/docs/get-started-with-zed</code>
 
 
-
----
 
 
 
