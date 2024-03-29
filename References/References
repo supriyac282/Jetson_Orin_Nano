@@ -1,0 +1,20 @@
+
+[1] https://www.stereolabs.com/docs/depth-sensing/depth-settings
+[2] https://medium.com/@rohinfablabz/camera-triangulation-for-depth-and-distance-analysis-6e9da94cc9d7
+[3] https://github.com/rbonghi/jetson_stats?tab=readme-ov-file
+[4] https://pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/
+[5] https://github.com/stereolabs/zedsdk/tree/master/object%20detection/custom%20detector/python/pytorch_yolov8
+[6] https://github.com/ultralytics/ultralytics
+[7] https://forums.developer.nvidia.com/t/monitor-gpu-usage/72250
+[8] https://www.stereolabs.com/docs/depth-sensing/using-depth
+[9] https://developer.nvidia.com/embedded/jetpack-sdk-512
+[10] https://docs.ultralytics.com/quickstart/#conda-docker-image
+[11] https://medium.com/@rohinfablabz/camera-triangulation-for-depth-and-distance-analysis6e9da94cc9d7
+[12] https://docs.nvidia.com/jetson/jetpack/index.html/
+[13] https://www.v7labs.com/blog/yolo-object-detection
+[14] https://developer.nvidia.com/embedded/jetpack-sdk-512
+[15] https://learnopencv.com/ultralytics-yolov8/
+[16] https://levity.ai/blog/neural-networks-cnn-ann-rnn
+[17] https://research.aimultiple.com/object-detection/
+[18] https://alwaysai.co/blog/object-detection-for-business
+
